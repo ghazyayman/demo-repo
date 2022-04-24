@@ -7,7 +7,7 @@ Some description brah!
 git clone
 git add
 git status
-git commit
+git commit -m
 git push
 
-watch it on YT brah
+watch it on YT brah 
