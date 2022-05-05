@@ -10,4 +10,6 @@ git status
 git commit -m
 git push
 
-watch it on YT brah 
+# Local Development 
+
+1. Open index.html in your browser
